@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MRasp3", "MRasp3\MRasp3.csproj", "{675D4F62-8C5E-4E0E-9D0C-7D24749B38DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{49735420-FC24-451A-971D-802717ECE127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675D4F62-8C5E-4E0E-9D0C-7D24749B38DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675D4F62-8C5E-4E0E-9D0C-7D24749B38DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675D4F62-8C5E-4E0E-9D0C-7D24749B38DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675D4F62-8C5E-4E0E-9D0C-7D24749B38DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49735420-FC24-451A-971D-802717ECE127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49735420-FC24-451A-971D-802717ECE127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49735420-FC24-451A-971D-802717ECE127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49735420-FC24-451A-971D-802717ECE127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729E5965-E466-477D-B9F3-B346D92CA04D}
+	EndGlobalSection
+EndGlobal
